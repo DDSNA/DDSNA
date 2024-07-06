@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 **Tech Stack**
-[![My Skills](https://skillicons.dev/icons?i=python,java,airflow,kafka)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,docker,kafka)](https://skillicons.dev)
 
 <!--
 **DDSNA/DDSNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
