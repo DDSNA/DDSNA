@@ -10,7 +10,7 @@ Hello! I'm Dan and I've been doing various kinds of data-related work for 4 year
 **Technologies I've used over time**
 
 
-Languages:  [![Languages](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
+Languages:  [![Languages](https://skillicons.dev/icons?i=python,ts)](https://skillicons.dev)
 
 Frameworks:  [![Frameworks](https://skillicons.dev/icons?i=fastapi,flask,sklearn)](https://skillicons.dev)
 
