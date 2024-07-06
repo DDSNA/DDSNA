@@ -1,10 +1,23 @@
-## A warm Hello! from Dan - the data specialist 
+## A warm Hello! from Dan - the data specialist 👋
 
-## **Tech Stack**
+**Short summary**
 
-[![Languages](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
+Hello! I'm Dan and I've been doing various kinds of data-related work for 4 years.
 
-[![Tools](https://skillicons.dev/icons?i=gcp,docker,kafka)](https://skillicons.dev)
 
-[![DBs](https://skillicons.dev/icons?i=mysql,postgres,redis)](https://skillicons.dev)
+<br>
+<br>
+
+**Technologies I've used over time**
+
+
+Languages:  [![Languages](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
+
+Frameworks:  [![Frameworks](https://skillicons.dev/icons?i=fastapi,flask,sklearn)](https://skillicons.dev)
+
+Tools:  [![Tools](https://skillicons.dev/icons?i=gcp,azure,docker,kafka)](https://skillicons.dev)
+
+Databases:  [![DBs](https://skillicons.dev/icons?i=mysql,postgres,redis)](https://skillicons.dev)
+
+Misc:  [![Misc](https://skillicons.dev/icons?i=grafana,prometheus,bash,discord,css)](https://skillicons.dev)
 
